@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Catalogue Movie UI UX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Catalogue Movie</string>
+    <string name="nav_header_subtitle">Tajuk navigasi</string>
+    <string name="nav_header_desc">Film apa pun bisa Anda cari!</string>
+
+    <string name="tools">Alat Bantu</string>
+    <string name="now_showing">Sedang Dimainkan</string>
+    <string name="coming_soon">Akan Datang</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="title">Judul</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="popularity">Popularitas :</string>
+    <string name="count">0</string>
+    <string name="true_false">Benar/Salah</string>
+    <string name="overview">Ikhtisar</string>
+
+    <string name="adult">BO - Bimbingan Orang Tua</string>
+    <string name="nonAdult">SU - Semua Umur</string>
+
+    <string name="detail">Detail</string>
+    <string name="share">Bagikan</string>
+
+
+</resources>
